@@ -1,0 +1,39 @@
+/* CSS HEX */
+ --wild-sand: #f4f4f4;
+--mirage: #1d2a33;
+--nile-blue: #1b3d55;
+--flamingo: #eb4d2e;
+--boston-blue: #3d8cb7;
+--danube: #64aacc;
+--smalt-blue: #5a7686;
+--corduroy: #686a6a;
+--zambezi: #605453;
+--cape-cod: #424749;
+
+
+/* SCSS HEX */
+$wild-sand: #f4f4f4;
+$mirage: #1d2a33;
+$nile-blue: #1b3d55;
+$flamingo: #eb4d2e;
+$boston-blue: #3d8cb7;
+$danube: #64aacc;
+$smalt-blue: #5a7686;
+$corduroy: #686a6a;
+$zambezi: #605453;
+$cape-cod: #424749;
+
+
+/* SCSS RGB */
+--wild-sand: rgba(244,244,244,1);
+--mirage: rgba(29,42,51,1);
+--nile-blue: rgba(27,61,85,1);
+--flamingo: rgba(235,77,46,1);
+--boston-blue: rgba(61,140,183,1);
+--danube: rgba(100,170,204,1);
+--smalt-blue: rgba(90,118,134,1);
+--corduroy: rgba(104,106,106,1);
+--zambezi: rgba(96,84,83,1);
+--cape-cod: rgba(66,71,73,1);
+
+
