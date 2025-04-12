@@ -30,7 +30,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    cursor:cell;
+    cursor: pointer;
 }
 .header-container {
     display: flex;
